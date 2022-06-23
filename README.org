@@ -89,8 +89,8 @@ particular story.
 #+NAME: Creative Commons License
 [[./images/cc-by-sa-88x31.png]]
 
-/Untitled Time Skip Piss Fic/ is licensed under a [[http://creativecommons.org/licenses/by-sa/4.0][Creative Commons
-Attribution-ShareAlike 4.0 International License]]
+/Untitled Time Skip Piss Fic/ shared under the terms of [[http://creativecommons.org/licenses/by-sa/4.0][Creative Commons
+Attribution-ShareAlike 4.0 International]]
 
 /Untitled Time Skip Piss Fic/ was written by /L;S RisingSunfish/, and is
 based on /Amphibia/, originally created by Matt Braly
