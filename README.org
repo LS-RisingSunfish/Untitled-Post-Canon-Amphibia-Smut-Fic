@@ -80,28 +80,42 @@ top three that is open source.
 
 * License
 ** Creative Commons Attribution-ShareAlike
-Not that this actually means much for a work of fiction that is
-/technically/ illegal, such being the case with /all/ fanfiction, I'm
-still including this license indicator for the sake of readers and
-people who may show interest in continuing what I've written in this
-particular story.
+Even though this means little for a work that's /technically/ illegal,
+such being the case with /any/ fanfiction based on work published under
+/All Rights Reserved/ (or any other license that prohibits unauthorized
+duplication and/or derivation/adaptation), I'm still including this
+license statement for the anybody who may be interested in using this
+story or its contents.
 
 #+NAME: Creative Commons License
 [[./images/cc-by-sa-88x31.png]]
 
-/Untitled Time Skip Piss Fic/ shared under the terms of [[http://creativecommons.org/licenses/by-sa/4.0][Creative Commons
-Attribution-ShareAlike 4.0 International]]
+/Untitled Time Skip Piss Fic/ by /L;S Rising Sunfish/ has shared under
+the terms of [[http://creativecommons.org/licenses/by-sa/4.0][Creative Commons Attribution-ShareAlike 4.0 International
+(CC BY-SA 4.0)]]
 
-/Untitled Time Skip Piss Fic/ was written by /L;S RisingSunfish/, and is
-based on /Amphibia/, originally created by Matt Braly
+/Untitled Time Skip Piss Fic/ is based on /Amphibia/, originally created
+by Matt Braly
 
 While this license statement is most certainly /not legally binding/ due
 to the nature of fanfiction, it still serves an important purpose. It is
 my understanding that common fanfiction etiquette dictates that you
 should not copy the work of another without permission. Well, the
 license above indicates that I explicitly grant /everybody/ permission
-to copy my work, as long as they credit me as the author and grant
-others the same permissions that I have.
+to copy my work, as long as they credit me as the author (Attribution)
+and grant others the same permissions that I have (ShareAlike).
+
+To reiterate: The above license statement indicate that you /do not need
+to seek my permission/ in order to use my writing /for any reason/. My
+only demand is that, /if/ you use it, you attribute me (Attribution),
+and then share it under the same terms (ShareAlike).
+
+For those unaware, this is a /copyleft/ license, and in situations where
+it is legally binding, (such as /The SCP Foundation/, which is under CC
+BY-SA 3.0) it actually prohibits anybody from locking derivatives or
+adaptations behind copyright, because the terms dictate that such
+derivatives /also/ be licensed under the same license, or one that is
+compatible with it (all of which are also copyleft).
 
 ** Kopimi
 [[./images/kopimi.png]]
