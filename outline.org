@@ -54,20 +54,25 @@ Explicit
 
 ** TODO Erotic Interests
 
-|----------+--------------------+-------------------------+-----------------------------|
-| Trait    | Anne               | Marcy                   | Sasha                       |
-|----------+--------------------+-------------------------+-----------------------------|
-| General  | - Kinky            | - Turbo Kinky           | - Über Sub                  |
-|          | - Switch           | - Hyper Switch          | - Vanilla                   |
-|----------+--------------------+-------------------------+-----------------------------|
-| Fetishes | - Service Sub      | - Watersports           | - Tickle Masochist          |
-|          | - Soft/Gentle Dom  | - Caregiver/Little(CGL) | - Musk                      |
-|          |                    |                         | - Piercings                 |
-|          |                    |                         | - Face Sitting              |
-|          | - Free Use Dom     | - Free Use Dom          | - (eventually) Free Use Sub |
-|----------+--------------------+-------------------------+-----------------------------|
-| Limits   | - Harsh Discipline |                         | - Bondage                   |
-|----------+--------------------+-------------------------+-----------------------------|
+#+NAME: General Interests
+| Anne     | Marcy          | Sasha                 |
+|----------+----------------+-----------------------|
+| - Kinky  | - Turbo Kinky  | - (initially) Vanilla |
+| - Switch | - Hyper Switch | - Über Sub            |
+
+#+NAME: Specific Kinks
+| Anne              | Marcy                   | Sasha                       |
+|-------------------+-------------------------+-----------------------------|
+| - Service Sub     | - Watersports           | - Tickle Masochist          |
+| - Soft/Gentle Dom | - Caregiver/Little(CGL) | - Musk                      |
+| - Free Use Dom    | - Free Use Dom          | - (eventually) Free Use Sub |
+|                   |                         | - Piercings                 |
+|                   |                         | - Face Sitting              |
+
+#+NAME: Limits
+| Anne               | Marcy | Sasha     |
+|--------------------+-------+-----------|
+| - Harsh Discipline |       | - Bondage |
 
 ** TODO Background
 
