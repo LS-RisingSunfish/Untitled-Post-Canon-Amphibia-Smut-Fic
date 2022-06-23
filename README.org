@@ -8,8 +8,8 @@
 - [[#writing-tools][Writing Tools]]
   - [[#writing-doom-emacs-evil--org-mode][Writing: Doom Emacs (evil) + org-mode]]
   - [[#draftrevision-management-git][Draft/Revision Management: git]]
+  - [[#sharing-and-hosting-ao3-gitlab-and-github][Sharing and Hosting: AO3, GitLab, and GitHub]]
 - [[#license][License]]
-  - [[#add-kopimi][Add Kopimi]]
 
 * Description
 This is a work in progress, (probably) one shot /Amphibia/ fanfiction
@@ -69,6 +69,13 @@ still being able to go back and write. It also has a very useful
 /branching/ feature, which is useful if you have multiple people working
 on the same project.
 
+** Sharing and Hosting: AO3, GitLab, and GitHub
+As I'm sure you've gathered, this project is hosted on both GitLab and
+GitHub. But for actually /publishing/ the finalized project for people to
+find and read, I've hosted /that/ on [[https://archiveofourown.org/][Archive Of Our Own (AO3)]], because
+it's a very popular fanfiction hosting site, and the /only/ one of the
+top three that is open source.
+
 * License
 Not that this actually means much for a work of fiction that is
 /technically/ illegal, such being the case with /all/ fanfiction, I'm
@@ -93,4 +100,4 @@ license above indicates that I explicitly grant /everybody/ permission
 to copy my work, as long as they credit me as the author and grant
 others the same permissions that I have.
 
-** TODO Add Kopimi
+[[./images/Kopimi_k.svg]]
