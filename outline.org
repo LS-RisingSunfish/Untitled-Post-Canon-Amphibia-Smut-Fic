@@ -55,14 +55,14 @@ Explicit
 
 ** TODO Erotic Interests
 
-General Interests
+*** General Interests
 #+NAME: General Interests
 | Anne   | Marcy        | Sasha               |
 |--------+--------------+---------------------|
 | Kinky  | Turbo Kinky  | (initially) Vanilla |
 | Switch | Hyper Switch | Über Sub            |
 
-Specific Kinks
+*** Specific Kinks
 #+NAME: Specific Kinks
 | Anne            | Marcy                 | Sasha                     |
 |-----------------+-----------------------+---------------------------|
@@ -72,8 +72,7 @@ Specific Kinks
 |                 |                       | Piercings                 |
 |                 |                       | Face Sitting              |
 
-Limits
-#+NAME: Limits
+*** Limits
 | Anne             | Marcy | Sasha   |
 |------------------+-------+---------|
 | Harsh Discipline |       | Bondage |
