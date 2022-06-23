@@ -5,6 +5,9 @@
 * Table of Contents :toc:
 - [[#description][Description]]
 - [[#disclaimer][Disclaimer]]
+- [[#writing-tools][Writing Tools]]
+  - [[#writing-doom-emacs-evil--org-mode][Writing: Doom Emacs (evil) + org-mode]]
+  - [[#draftrevision-management-git][Draft/Revision Management: git]]
 - [[#license][License]]
   - [[#add-kopimi][Add Kopimi]]
 
@@ -38,6 +41,33 @@ These are the types of watersports you can expect to see:
 If these things are /not/ to your liking, please turn away now.
 
 *You have been warned*
+
+* Writing Tools
+For those curious /what/ I use to write, here's a list of my work flow.
+At the time of writing, my workflow is still developing, and this
+section will likely change semi-frequently.
+
+** Writing: Doom Emacs (evil) + org-mode
+I use the doom distribution of the Emacs text editor with vim (evil)
+bindings. Both vim and Emacs are plain-text editors that were created
+during a period before graphical desktops were common place, and thus
+were created with keybindings for navigation and formatting of the text.
+I use Emacs because vim (and it's distros, like nvim) are mostly locked
+into a terminal window, and thus, is unable take advantage of the
+graphical environment. Also, in my experience, Emacs is just more
+configurable.
+
+Org mode is a writing mode in Emacs that allows for very powerful
+organization tools, such as TODO management. It is also a good
+alternative to markdown.
+
+** Draft/Revision Management: git
+Git is a version control software that allows me to take snapshots of
+a project, which I can then go back to if I want/need to. This removes
+the need to keep multiple revisions of a draft on my machine, while
+still being able to go back and write. It also has a very useful
+/branching/ feature, which is useful if you have multiple people working
+on the same project.
 
 * License
 Not that this actually means much for a work of fiction that is
