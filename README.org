@@ -106,7 +106,7 @@ others the same permissions that I have.
 ** Kopimi
 [[./images/kopimi.png]]
 
-Kopimi is a religious symbol used to indicate that I
-not only /permit/ sharing, duplication, and remixing of my work, but
-that I explicitly /request/ that people do so all of those things, /for
-any reason or purpose/.
+Kopimi is a religious symbol used to indicate that I not only /permit/
+sharing, duplication, and remixing of my work, but that I explicitly
+/request/ that people do so all of those things, /for any reason or
+purpose/.
