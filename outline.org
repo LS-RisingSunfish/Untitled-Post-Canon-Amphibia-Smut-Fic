@@ -49,9 +49,8 @@ Explicit
 
 - Marcy is in a lodi QP relationship with ShashAnne
 
-- [ ] Marcy's feelings about SashAnne
-  - [ ] Perfectly Fine and Healthy
-  - [ ] Jealous of Relative Closeness
+- Marcy is /not/ jealous of the closer relationship that SashAnne seem
+  to have.
 
 ** TODO Erotic Interests
 
