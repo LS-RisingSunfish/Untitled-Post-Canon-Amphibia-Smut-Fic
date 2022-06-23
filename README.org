@@ -10,6 +10,8 @@
   - [[#draftrevision-management-git][Draft/Revision Management: git]]
   - [[#sharing-and-hosting-ao3-gitlab-and-github][Sharing and Hosting: AO3, GitLab, and GitHub]]
 - [[#license][License]]
+  - [[#creative-commons-attribution-sharealike][Creative Commons Attribution-ShareAlike]]
+  - [[#kopimi][Kopimi]]
 
 * Description
 This is a work in progress, (probably) one shot /Amphibia/ fanfiction
@@ -77,6 +79,7 @@ it's a very popular fanfiction hosting site, and the /only/ one of the
 top three that is open source.
 
 * License
+** Creative Commons Attribution-ShareAlike
 Not that this actually means much for a work of fiction that is
 /technically/ illegal, such being the case with /all/ fanfiction, I'm
 still including this license indicator for the sake of readers and
@@ -100,4 +103,10 @@ license above indicates that I explicitly grant /everybody/ permission
 to copy my work, as long as they credit me as the author and grant
 others the same permissions that I have.
 
+** Kopimi
 [[./images/kopimi.png]]
+
+Kopimi is a religious symbol used to indicate that I
+not only /permit/ sharing, duplication, and remixing of my work, but
+that I explicitly /request/ that people do so all of those things, /for
+any reason or purpose/.
