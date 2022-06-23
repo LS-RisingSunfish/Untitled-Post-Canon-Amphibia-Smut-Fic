@@ -100,4 +100,4 @@ license above indicates that I explicitly grant /everybody/ permission
 to copy my work, as long as they credit me as the author and grant
 others the same permissions that I have.
 
-[[./images/Kopimi_k.svg]]
+[[./images/kopimi.png]]
