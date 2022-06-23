@@ -59,7 +59,6 @@ General Interests
 #+NAME: General Interests
 | Anne   | Marcy        | Sasha               |
 |--------+--------------+---------------------|
-| <24>   | <24>         | <24>                |
 | Kinky  | Turbo Kinky  | (initially) Vanilla |
 | Switch | Hyper Switch | Über Sub            |
 
@@ -67,7 +66,6 @@ Specific Kinks
 #+NAME: Specific Kinks
 | Anne            | Marcy                 | Sasha                     |
 |-----------------+-----------------------+---------------------------|
-| <24>            | <24>                  | <24>                      |
 | Service Sub     | Watersports           | Tickle Masochist          |
 | Soft/Gentle Dom | Caregiver/Little(CGL) | Musk                      |
 | Free Use Dom    | Free Use Switch       | (eventually) Free Use Sub |
@@ -78,7 +76,6 @@ Limits
 #+NAME: Limits
 | Anne             | Marcy | Sasha   |
 |------------------+-------+---------|
-| <24>             | <24>  | <24>    |
 | Harsh Discipline |       | Bondage |
 
 ** TODO Background
