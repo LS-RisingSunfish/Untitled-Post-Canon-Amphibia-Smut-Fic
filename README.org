@@ -7,7 +7,6 @@
 - [[#disclaimers][Disclaimers]]
   - [[#legal][Legal]]
   - [[#erotic-content][Erotic Content]]
-  - [[#headcanon][Headcanon]]
 - [[#writing-tools][Writing Tools]]
   - [[#writing-doom-emacs-evil--org-mode][Writing: Doom Emacs (evil) + org-mode]]
   - [[#draftrevision-management-git][Draft/Revision Management: git]]
@@ -44,47 +43,36 @@ I have not made any agreement with /Amphibia/'s rights holder which
 would grant me any rights to use the intellectual property that is not
 consistent with those of a typical viewer.
 
-Any permissions granted by me are not intended to be interpreted as legally
-binding licensing agreements or other such legal agreement.
+Any permissions granted by me are not intended to be interpreted as
+legally binding licensing agreements or any other such legal agreement
+between any number of parties, including myself.
 
-The content depicted in this work of fiction is not intended to be
-interpreted as official media, nor is it intended to be interpreted or
-accepted as canon.
+None of the content in this work of fiction is intended to be
+interpreted as official media.
+
+None of the events in this work of fiction are intended to be
+interpreted as changes or additions to official canon.
 
 The Section with the heading [[#sharing-modification-derivation-and-adaptation][Sharing, Modification, Derivation, and
 Adaptation]] contains references to one or more intellectual property
 licenses. These are used for /reference and illustrative purposes only/,
 and are not intended to form a legally binding contract, licensing
-agreement, or other such legal agreement with any party.
+agreement, or other such legal agreement between any number of parties,
+including myself.
 
 ** Erotic Content
-As one might conclude from the title, this particular fanfiction is
-sexually explicit. This also is a fanfiction focused on various types of
-/watersports/.
+Unless otherwise indicated, all acts described only involve consenting parties.
 
-These are the types of watersports you can expect to see:
-- Omorashi/Wetting
+This work contains (or will contain) explicit depictions/descriptions of:
+- Sex
+- Wetting
 - Desperation/Holding
-- Bladder control (BDSM)
-- Piss drinking
+- BDSM
+  - Urine Consumption
+  - Bladder Control
+  - Free Use
 
 If these things are /not/ to your liking, please turn away now.
-
-*You have been warned*
-
-** Headcanon
-The content in this story is intended reflect /my personal headcanon/.
-
-Usage of the present tense when discussing the characters refers to them
-as they are depicted in the epilogue.
-
-*** Contradictions
-- The Calamity Trio were sixteen during the events of /Amphibia/, and
-  are twenty-six during the events of the epilogue.
-
-*** Non-Contradictory
-- After the main events of /Amphibia/, The Trio agreed to get matching
-  pairs of earrings which had colors of the other two.
 
 * Writing Tools
 For those curious /what/ I use to write, here's a list of my work flow.
