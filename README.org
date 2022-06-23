@@ -4,32 +4,60 @@
 
 * Table of Contents :toc:
 - [[#description][Description]]
-- [[#disclaimer][Disclaimer]]
+- [[#disclaimers][Disclaimers]]
+  - [[#legal][Legal]]
+  - [[#erotic-content][Erotic Content]]
+  - [[#headcanon][Headcanon]]
 - [[#writing-tools][Writing Tools]]
   - [[#writing-doom-emacs-evil--org-mode][Writing: Doom Emacs (evil) + org-mode]]
   - [[#draftrevision-management-git][Draft/Revision Management: git]]
   - [[#sharing-and-hosting-ao3-gitlab-and-github][Sharing and Hosting: AO3, GitLab, and GitHub]]
-- [[#license][License]]
+- [[#sharing-modification-derivation-and-adaptation][Sharing, Modification, Derivation, and Adaptation]]
   - [[#creative-commons-attribution-sharealike][Creative Commons Attribution-ShareAlike]]
   - [[#kopimi][Kopimi]]
 
 * Description
-This is a work in progress, (probably) one shot /Amphibia/ fanfiction
-taking place sometime around the epilogue.
+This is a work in progress /Amphibia/ fanfiction taking place sometime
+around the show's epilogue.
 
+This /repository/ serves to allow anybody who wishes to look at my
+creative process to do so, and to allow for people to easily create
+their own derivatives or adaptations.
+
+Such derivations and adaptations are encouraged, but it is recommended
+that any who do so leave any and all legal disclaimers unchanged (I am
+not a lawyer, this is not legal advice).
+
+* Disclaimers
+Within this 'Disclaimers' section, unless otherwise indicated, usage of
+first person pronouns ('I', 'me', 'myself', 'we', etc.) is intended to
+refer to individual responsible for managing this git repository,
+wherever it is located.
+
+** Legal
 /Amphibia/ is a Disney animated television show originally created by
 Matt Braly.
 
-The characters in this particular fanfiction reflect /my/ headcanon,
-which is that the characters were /sixteen/ during the events of the
-show, rather than /thirteen/, and that /Marcy/ is a hypersexual
-/aroallo/.
+I am not the intellectual property rights holder of /Amphibia/.
 
-This /repository/ serves as a way for anybody who wishes to look at my
-creative process may do so, and to allow for people to easily create
-their own derivatives if they so wish.
+I have not made any agreement with /Amphibia/'s rights holder which
+would grant me any rights to use the intellectual property that is not
+consistent with those of a typical viewer.
 
-* Disclaimer
+Any permissions granted by me are not intended to be interpreted as legally
+binding licensing agreements or other such legal agreement.
+
+The content depicted in this work of fiction is not intended to be
+interpreted as official media, nor is it intended to be interpreted or
+accepted as canon.
+
+The Section with the heading [[#sharing-modification-derivation-and-adaptation][Sharing, Modification, Derivation, and
+Adaptation]] contains references to one or more intellectual property
+licenses. These are used for /reference and illustrative purposes only/,
+and are not intended to form a legally binding contract, licensing
+agreement, or other such legal agreement with any party.
+
+** Erotic Content
 As one might conclude from the title, this particular fanfiction is
 sexually explicit. This also is a fanfiction focused on various types of
 /watersports/.
@@ -43,6 +71,20 @@ These are the types of watersports you can expect to see:
 If these things are /not/ to your liking, please turn away now.
 
 *You have been warned*
+
+** Headcanon
+The content in this story is intended reflect /my personal headcanon/.
+
+Usage of the present tense when discussing the characters refers to them
+as they are depicted in the epilogue.
+
+*** Contradictions
+- The Calamity Trio were sixteen during the events of /Amphibia/, and
+  are twenty-six during the events of the epilogue.
+
+*** Non-Contradictory
+- After the main events of /Amphibia/, The Trio agreed to get matching
+  pairs of earrings which had colors of the other two.
 
 * Writing Tools
 For those curious /what/ I use to write, here's a list of my work flow.
@@ -78,7 +120,7 @@ find and read, I've hosted /that/ on [[https://archiveofourown.org/][Archive Of 
 it's a very popular fanfiction hosting site, and the /only/ one of the
 top three that is open source.
 
-* License
+* Sharing, Modification, Derivation, and Adaptation
 ** Creative Commons Attribution-ShareAlike
 Even though this means little for a work that's /technically/ illegal,
 such being the case with /any/ fanfiction based on work published under
