@@ -9,9 +9,10 @@
   - [[#rating][Rating]]
   - [[#content][Content]]
 - [[#brainstorming][Brainstorming]]
+  - [[#proj-identity][PROJ Identity]]
   - [[#relationships][Relationships]]
   - [[#physical-descriptions][Physical Descriptions]]
-  - [[#erotic-info][Erotic Info]]
+  - [[#erotic][Erotic]]
   - [[#background][Background]]
 - [[#draft-1-02][Draft 1]]
   - [[#outline][Outline]]
@@ -44,6 +45,15 @@ Explicit
 - Sexually Content
 
 * TODO Brainstorming
+This section will likely change often
+
+** PROJ Identity
+| Name                | Anne              | Marcy                 | Sasha           |
+|---------------------+-------------------+-----------------------+-----------------|
+| Pronouns            | She/Her           | She/They              | She/Her         |
+| Gender              | Woman             | Femby (feminine enby) | Woman           |
+| Sexual Attraction   | Lesbian + Fembies | Yes                   | Bisexual + Enby |
+| Romantic Attraction | Lesbian + Fembies | No                    | Bisexual + Enby |
 
 ** DONE Relationships
 
@@ -121,7 +131,7 @@ brought to their tattooist.
   third sword. The Scar itself is uninked except for where the swords
   cross over it.
 
-** TODO Erotic Info
+** TODO Erotic
 
 *** General Interests
 | Anne   | Marcy        | Sasha               |
@@ -130,19 +140,22 @@ brought to their tattooist.
 | Switch | Hyper Switch | Über Sub            |
 
 *** Specific Kinks/Turnons
-| Anne            | Marcy                 | Sasha                     |
-|-----------------+-----------------------+---------------------------|
-| Service Sub     | Watersports           | Tickle Masochist          |
-| Soft/Gentle Dom | Caregiver/Little(CGL) | Musk                      |
-| Free Use Dom    | Free Use Switch       | (eventually) Free Use Sub |
-|                 | Fisting               | Piercings                 |
-|                 | Gaping                | Face Sitting              |
-|                 | Tattoos               | Tattoos                   |
+| Anne                     | Marcy                 | Sasha                     |
+|--------------------------+-----------------------+---------------------------|
+| (eventually) Watersports | Watersports           | (eventually) Watersports  |
+| Free Use Dom             | Free Use Switch       | (eventually) Free Use Sub |
+| Soft/Gentle Dom          | Caregiver/Little(CGL) | Musk                      |
+| Service Sub              | Fisting               | Tickle Masochist          |
+| Menstrual Play           | Menstrual Play        |                           |
+|                          | Tattoos               | Tattoos                   |
+|                          | Gaping                | Piercings                 |
+|                          |                       | Face Sitting              |
 
 *** Limits
-| Anne             | Marcy        | Sasha   |
-|------------------+--------------+---------|
-| Harsh Discipline | Asphyxiation | Bondage |
+| Anne             | Marcy               | Sasha          |
+|------------------+---------------------+----------------|
+| Harsh Discipline | Asphyxiation        | Bondage        |
+|                  | Sensory Deprivation | Menstrual Play |
 
 *** Skills/Talents
 | Anne     | Marcy         | Sasha         |
@@ -154,7 +167,7 @@ brought to their tattooist.
 - Sasha is a free use plaything for MarcAnne.
 - MarSasha are free use playthings for Anne.
 - Marcy is super into all things /watersports/, and convinces SashAnne
-  to give it a shot
+  to give it a shot.
 - Anne is a domestic servant for MarSasha. Sasha is just chillin', but
   Marcy is /really/ into it.
 
