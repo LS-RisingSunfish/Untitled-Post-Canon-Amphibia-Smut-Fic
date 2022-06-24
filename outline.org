@@ -9,7 +9,7 @@
   - [[#rating][Rating]]
   - [[#content][Content]]
 - [[#brainstorming][Brainstorming]]
-  - [[#proj-identity][PROJ Identity]]
+  - [[#identity][Identity]]
   - [[#relationships][Relationships]]
   - [[#physical-descriptions][Physical Descriptions]]
   - [[#erotic][Erotic]]
@@ -47,13 +47,13 @@ Explicit
 * TODO Brainstorming
 This section will likely change often
 
-** PROJ Identity
-| Name                | Anne              | Marcy                 | Sasha           |
-|---------------------+-------------------+-----------------------+-----------------|
-| Pronouns            | She/Her           | She/They              | She/Her         |
-| Gender              | Woman             | Femby (feminine enby) | Woman           |
-| Sexual Attraction   | Lesbian + Fembies | Yes                   | Bisexual + Enby |
-| Romantic Attraction | Lesbian + Fembies | No                    | Bisexual + Enby |
+** Identity
+| Name                | Anne    | Marcy                 | Sasha      |
+|---------------------+---------+-----------------------+------------|
+| Pronouns            | She/Her | She/They              | She/Her    |
+| Gender              | Woman   | Femby (feminine enby) | Woman      |
+| Sexual Attraction   | Lesbian | Yes                   | Bisexual   |
+| Romantic Attraction | Lesbian | Aromantic             | Biromantic |
 
 ** DONE Relationships
 
