@@ -14,9 +14,8 @@
   - [[#physical-descriptions][Physical Descriptions]]
   - [[#erotic][Erotic]]
   - [[#background][Background]]
-- [[#draft-1-02][Draft 1]]
-  - [[#outline][Outline]]
-  - [[#document][Document]]
+- [[#writing][Writing]]
+  - [[#chapterepisode-1][Chapter/Episode 1]]
 
 * Premise
 Marcy returns to LA for some /fun times/ with Anne and Sasha.
@@ -44,8 +43,8 @@ Explicit
 - Watersports
 - Sexually Content
 
-* TODO Brainstorming
-This section will likely change often
+* Brainstorming
+This section will likely change often.
 
 ** Identity
 | Name                | Anne    | Marcy                 | Sasha      |
@@ -65,6 +64,15 @@ This section will likely change often
   to have.
 
 ** TODO Physical Descriptions
+Unless otherwise indicated, characters appear as depicted in the show's
+epilogue.
+
+*** General
+**** Hair
+- Anne: NC
+- Marcy: Pixie
+- Sasha: NC
+
 *** Body Mods
 **** Anne
 ***** Piercings
@@ -73,6 +81,9 @@ This section will likely change often
   - Right: Faux Ruby
 
 **** Marcy
+***** Surgery
+- Cosmetic mastectomy (nipples only)
+  - They just thought that it would be cool
 ***** Piercings
 - Ear Lobes
   - Left: Faux Ruby
@@ -126,6 +137,10 @@ brought to their tattooist.
   - /Does/ own a pair of both faux sapphire and faux emerald tipped bar
     piercings /just in case/.
 
+- Clitoral Hood (later)
+  - After exploring kinky things with the girls, she decides to get a
+    kinky piercing.
+
 ***** Tattoos
 - The Crossed Swords an her back going through her scar as if it were a
   third sword. The Scar itself is uninked except for where the swords
@@ -174,11 +189,22 @@ brought to their tattooist.
 
 
 ** TODO Background
+This section contains all of status quo information. Everything stated
 
-* TODO Draft 1 [0/2]
-** TODO Outline
+* Writing
+These sections will be removed as they're completed.
 
-** TODO Document
+** TODO Chapter/Episode 1
+*** TODO Draft 1 [0/5]
+- [ ] Outline
+- [ ] Write
+- [ ] Read Aloud
+- [ ] Revision
+- [ ] Submit to Beta
 
-#+begin_src org-mode :tangle Draft1.org
-#+end_src
+*** TODO Convert to Formats
+- [ ] markdown
+- [ ] HTML/RTF
+- [ ] epub
+
+*** TODO Upload
