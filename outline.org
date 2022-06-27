@@ -274,8 +274,6 @@ These sections will be removed as they're completed.
 - [ ] Submit to Beta
 
 *** TODO Convert to Formats
-- [ ] markdown
 - [ ] HTML/RTF
-- [ ] epub
 
 *** TODO Upload
