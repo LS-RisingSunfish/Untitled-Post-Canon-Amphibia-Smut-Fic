@@ -118,36 +118,50 @@ it's a very popular fanfiction hosting site, and the /only/ one of the
 top three that is open source.
 
 * Sharing, Modification, Derivation, and Adaptation
-** Creative Commons Attribution-ShareAlike
-Even though this means little for a work that's /technically/ illegal,
-such being the case with /any/ fanfiction based on work published under
-/All Rights Reserved/ (or any other license that prohibits unauthorized
-duplication and/or derivation/adaptation), I'm still including this
-license statement for the anybody who may be interested in using this
-story or its contents.
+None of this section is intended to be interpreted as a legally binding
+license agreement or other such agreement.
 
+Any reference to permission shall not be interpreted as an attempt to
+create a legally binding contract, licensing agreement, or other such
+agreement between any parties.
+
+** Creative Commons Attribution-ShareAlike
 #+NAME: Creative Commons License
 [[./images/cc-by-sa-88x31.png]]
 
-/Untitled Post Canon Amphibia Smut Fic/ by /L;S Rising Sunfish/ has shared under
+/Untitled Post Canon SashAnnArcy Smut Fic/ by /L;S RisingSunfish/ is shared under
 the terms of [[http://creativecommons.org/licenses/by-sa/4.0][Creative Commons Attribution-ShareAlike 4.0 International
 (CC BY-SA 4.0)]]
 
-/Untitled Post Canon Amphibia Smut Fic/ is based on /Amphibia/, originally created
+/Untitled Post Canon SashAnnArcy Smut Fic/ is based on /Amphibia/, originally created
 by Matt Braly
 
-While this license statement is most certainly /not legally binding/ due
-to the nature of fanfiction, it still serves an important purpose. It is
-my understanding that common fanfiction etiquette dictates that you
-should not copy the work of another without permission. Well, the
-license above indicates that I explicitly grant /everybody/ permission
-to copy my work, as long as they credit me as the author (Attribution)
-and grant others the same permissions that I have (ShareAlike).
+While this license statement is most certainly /not legally binding/
+(nor is it intended to be) due to the nature of fanfiction, it still
+serves an important purpose. It is my understanding that common
+fanfiction etiquette dictates that you should not copy the work of
+another without permission. Well, the license above indicates that I
+explicitly grant /everybody/ permission to copy my work, as long as they
+credit me as the author and provide a link or reference to the original
+work (Attribution) and grant others the same permissions that I have
+(ShareAlike).
 
-To reiterate: The above license statement indicate that you /do not need
-to seek my permission/ in order to use my writing /for any reason/. My
-only demand is that, /if/ you use it, you attribute me (Attribution),
-and then share it under the same terms (ShareAlike).
+To reiterate: The above license statement indicates that, if you want to
+share, modify, adapt, or otherwise change my work in any way, and are
+concerned about respecting me as a writer and artist, /do not seek my
+permission/, as it has already been explicitly granted to everybody who
+obtains access to it. My only request is that, /if/ you use it, you
+attribute me (Attribution), and then share it under the same terms
+(ShareAlike). This goes for derivations and adaptations of all types.
+Podfics, fanart, rewrites, continuations, animations, etc.
+
+Note that the above permission statement is not, nor is it intended to
+be a legally binding license agreement, or other such agreement. It is
+simply an indication to those who wish to respect me as a writer, that
+the only thing I consider disrespectful is if an adaptation,
+modification, or derivation of this story is created and shared without
+attributing me and this story, or if it is not shared under the same
+terms as this.
 
 For those unaware, this is a /copyleft/ license, and in situations where
 it is legally binding, (such as /The SCP Foundation/, which is under CC
@@ -155,6 +169,13 @@ BY-SA 3.0) it actually prohibits anybody from locking derivatives or
 adaptations behind copyright, because the terms dictate that such
 derivatives /also/ be licensed under the same license, or one that is
 compatible with it (all of which are also copyleft).
+
+In other words, if this license statement /was/ legally binding (which
+it is not, nor is it intended to be), and you were to create a
+derivative of this work, as long as you attributed me and published it
+under the same license, /The only legal way that I/ /would be able to
+get your story taken down is by convincing you to take/ /it down
+yourself./
 
 ** Kopimi
 [[./images/kopimi.png]]
