@@ -7,7 +7,7 @@
 - [[#tags][Tags]]
   - [[#warnings][Warnings]]
   - [[#rating][Rating]]
-  - [[#content][Content]]
+  - [[#contenttags][Content/Tags]]
 - [[#brainstorming][Brainstorming]]
   - [[#identity][Identity]]
   - [[#relationships][Relationships]]
@@ -15,7 +15,7 @@
   - [[#erotic][Erotic]]
   - [[#background][Background]]
 - [[#writing][Writing]]
-  - [[#chapterepisode-1][Chapter/Episode 1]]
+  - [[#chapter-1][Chapter 1]]
 
 * Premise
 Marcy returns to LA for some /fun times/ with Anne and Sasha.
@@ -31,7 +31,7 @@ Headcanon: The trio are now 26, and were 16 during the events of
 No Archive Warnings Apply
 ** Rating
 Explicit
-** Content
+** Content/Tags
 - Anne Boonchuy/Sasha Waybright/Marcy Wu
 - Anne Boonchuy/Marcy Wu
 - Anne Boonchuy/Sasha Waybright
@@ -42,6 +42,7 @@ Explicit
 - Aromantic Marcy
 - Watersports
 - Sexually Content
+- Author may be projecting onto Marcy
 
 * Brainstorming
 This section will likely change often.
@@ -65,7 +66,7 @@ This section will likely change often.
 
 ** TODO Physical Descriptions
 Unless otherwise indicated, characters appear as depicted in the show's
-epilogue.
+epilogue (NC).
 
 *** Hair
 **** Head
@@ -96,7 +97,7 @@ Is often commando, but not as much as Marcy and Sasha. Panties are just comfy.
   - Bottom: Cargo shorts or Cargo pants.
 
 **** Marcy
-Sometimes wears boy-shorts panties (mostly on her period), but will
+Sometimes wears boy-shorts style panties (mostly on her period), but will
 usually just not wear panties.
 
 - Home
@@ -265,10 +266,9 @@ depicted in the epilogue unless otherwise indicated.
 * Writing
 These sections will be removed as they're completed.
 
-** TODO Chapter/Episode 1
-*** TODO Draft 1 [0/5]
-- [ ] Outline
-- [ ] Write
+** Chapter 1
+*** TODO Draft 1 [0/4]
+- [-] Write
 - [ ] Read Aloud
 - [ ] Revision
 - [ ] Submit to Beta
