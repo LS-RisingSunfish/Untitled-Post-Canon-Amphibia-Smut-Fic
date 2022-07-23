@@ -16,6 +16,7 @@
   - [[#background][Background]]
 - [[#writing][Writing]]
   - [[#chapter-1][Chapter 1]]
+  - [[#chapter-2][Chapter 2]]
 
 * Premise
 Marcy returns to LA for some /fun times/ with Anne and Sasha.
@@ -270,10 +271,16 @@ These sections will be removed as they're completed.
 *** TODO Draft 1 [0/4]
 - [-] Write
 - [ ] Read Aloud
-- [ ] Revision
+- [ ] Revise
 - [ ] Submit to Beta
 
 *** TODO Convert to Formats
 - [ ] HTML/RTF
 
 *** TODO Upload
+** Chapter 2
+*** TODO Draft 1 [0/4]
+- [ ] Write
+- [ ] Read Aloud
+- [ ] Revise
+- [ ] Submit to Beta

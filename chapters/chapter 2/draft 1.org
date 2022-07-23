@@ -1,0 +1,7 @@
+#+title: Chapter 2 Draft 1
+#+author: L;S RisingSunfish
+
+* Author's Note
+I am very unfamiliar with how airports work, so if I'm wrong about any
+of this, please LMK, either as a comment here on AO3, or an issue on
+either GitHub or GitLab.
